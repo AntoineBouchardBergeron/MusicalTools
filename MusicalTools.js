@@ -21,4 +21,5 @@ function Play(){
     playing = true;   
     StartTime = date.getTime();   
   }
+  console.log("Play Pressed");
 }
